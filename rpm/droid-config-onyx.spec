@@ -4,7 +4,7 @@
 %define vendor oneplus
 
 %define vendor_pretty OnePlus
-%define device_pretty Onyx
+%define device_pretty X
 
 %define dcd_path ./
 # Adjust this for your device
