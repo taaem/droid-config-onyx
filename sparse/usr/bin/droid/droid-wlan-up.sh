@@ -11,5 +11,5 @@ while [ ! -e /data/misc/wifi/WCNSS_qcom_cfg.ini ]; do
     echo "...waiting for wlan firmware to appear: WCNSS_qcom_cfg.ini"
 done
 echo "...waiting for services to settle"
-sleep 2
+sleep 60
 /sbin/modprobe wlan
