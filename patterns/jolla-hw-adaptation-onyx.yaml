@@ -15,6 +15,7 @@ Requires:
 - droid-config-onyx-pulseaudio-settings
 - droid-config-onyx-policy-settings
 - droid-config-onyx-preinit-plugin
+- droid-hal-onyx-detritus
 - droid-hal-version-onyx
 
 - pulseaudio-modules-droid
