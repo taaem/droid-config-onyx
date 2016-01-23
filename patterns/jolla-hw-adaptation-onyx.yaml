@@ -74,7 +74,7 @@ Requires:
 #- telepathy-ring
 
 # For devices where test_gps eventually gets a fix:
-#- geoclue-provider-hybris-community
+- geoclue-provider-hybris-community
 
 Summary: Jolla HW Adaptation onyx
 
