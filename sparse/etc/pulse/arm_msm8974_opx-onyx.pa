@@ -40,6 +40,9 @@ load-module module-null-sink sink_name=sink.null rate=48000
 
 load-module module-droid-card rate=48000 mute_routing_before=24576 mute_routing_after=4096
 
+### Audioflingerglue
+load-module module-droid-glue
+
 load-module module-null-sink sink_name=sink.fake.sco rate=8000 channels=1
 load-module module-null-source source_name=source.fake.sco rate=8000 channels=1
 load-module module-bluez4-discover sco_sink=sink.fake.sco sco_source=source.fake.sco
