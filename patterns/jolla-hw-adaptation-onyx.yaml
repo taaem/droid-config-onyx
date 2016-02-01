@@ -79,5 +79,7 @@ Requires:
 # For devices where test_gps eventually gets a fix:
 - geoclue-provider-hybris-community
 
+# Mount SD-Card
+- sd-utils
 Summary: Jolla HW Adaptation onyx
 
