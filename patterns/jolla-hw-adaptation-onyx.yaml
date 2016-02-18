@@ -83,7 +83,7 @@ Requires:
 - sd-utils
 
 # OnePlus X specific packages
-- triambiance
+- triambience
 - onyx-flashlight
 
 Summary: Jolla HW Adaptation onyx
