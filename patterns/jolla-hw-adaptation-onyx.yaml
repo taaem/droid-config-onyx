@@ -77,9 +77,14 @@ Requires:
 - telepathy-ring
 
 # For devices where test_gps eventually gets a fix:
-- geoclue-provider-hybris-community
+- geoclue-providers-hybris
 
 # Mount SD-Card
 - sd-utils
+
+# OnePlus X specific packages
+- triambiance
+- onyx-flashlight
+
 Summary: Jolla HW Adaptation onyx
 
