@@ -1,0 +1,9 @@
+[Unit]
+Description=droid-gesture-enable
+After=mce.service
+
+[Service]
+ExecStart=/bin/sh /usr/bin/droid/droid-gesture-enable.sh
+
+[Install]
+WantedBy=basic.target
