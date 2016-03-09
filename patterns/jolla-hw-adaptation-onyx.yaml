@@ -86,6 +86,9 @@ Requires:
 - triambience
 - onyx-flashlight
 - onyx-triambience-settings-plugin
+- gestured
+- onyx-gesture-settings-plugin
+- usbstick-utils
 
 Summary: Jolla HW Adaptation onyx
 
