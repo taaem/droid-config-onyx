@@ -17,7 +17,7 @@ focusDistance=16
 
 [apps/jolla-camera/secondary/image]
 imageResolution='3264x2448'
-videoResolution='2048x1536'
+videoResolution='1920x1080'
 viewfinderResolution='2048x1536'
 isoValues=[0, 100, 200, 400]
 whiteBalanceValues=[0, 3, 2, 6, 5]
@@ -44,9 +44,9 @@ exposureCompensationValues=[4, 2, 0, -2, -4]
 focusDistance=16
 
 [apps/jolla-camera/secondary/video]
-imageResolution='2048x1536'
-videoResolution='2048x1536'
-viewfinderResolution='2048x1536'
+imageResolution='1920x1080'
+videoResolution='1920x1080'
+viewfinderResolution='1920x1080'
 isoValues=[0, 100, 200, 400]
 whiteBalanceValues=[0, 3, 2, 6, 5]
 focusDistanceValues=[4]
