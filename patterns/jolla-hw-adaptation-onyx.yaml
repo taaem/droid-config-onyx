@@ -90,5 +90,9 @@ Requires:
 - onyx-gesture-settings-plugin
 - usbstick-utils
 
+# Other usefull stuff that i install anyways
+- nano
+- mce-tools
+
 Summary: Jolla HW Adaptation onyx
 
