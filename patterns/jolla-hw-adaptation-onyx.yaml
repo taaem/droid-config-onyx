@@ -5,7 +5,7 @@ Description: Pattern with packages for onyx HW Adaptation
 Name: jolla-hw-adaptation-onyx
 Requires:
 - pattern:jolla-hw-adaptation-hybris
-- pattern:jolla-hw-adaptation-hybris-droid-vibrator
+#- pattern:jolla-hw-adaptation-hybris-droid-vibrator
 - pattern:jolla-ui-configuration-onyx
 
 - droid-hal-onyx
@@ -17,6 +17,9 @@ Requires:
 - droid-config-onyx-preinit-plugin
 - droid-hal-onyx-detritus
 - droid-hal-version-onyx
+
+# vibrator
+- qt5-feedback-haptics-ffmemless
 
 - pulseaudio-modules-droid
 - pulseaudio-modules-droid-glue
