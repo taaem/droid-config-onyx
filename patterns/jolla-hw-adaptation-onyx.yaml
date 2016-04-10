@@ -10,7 +10,6 @@ Requires:
 
 - droid-hal-onyx
 - droid-hal-onyx-img-boot
-- droid-hal-onyx-kernel
 - droid-hal-onyx-kernel-modules
 - droid-config-onyx-sailfish
 - droid-config-onyx-pulseaudio-settings
