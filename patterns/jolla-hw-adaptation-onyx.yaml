@@ -28,11 +28,7 @@ Requires:
 - qt5-qtmultimedia-plugin-mediaservice-gstmediacapture
 
 # for fm radio
-- policy-settings-common
-- pulseaudio-policy-enforcement
 - qt5-qtmultimedia-plugin-mediaservice-irisradio
-- ohm-plugins-misc
-- ohm-plugin-route
 
 # These need to be per-device due to differing backends (fbdev, eglfs, hwc, ..?)
 - qt5-qtwayland-wayland_egl
