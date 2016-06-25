@@ -102,6 +102,7 @@ Requires:
 - gestured
 - onyx-gesture-settings-plugin
 - usbstick-utils
+- onyx-camera-settings-plugin
 
 # Other usefull stuff that i install anyways
 - nano
