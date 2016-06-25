@@ -103,6 +103,7 @@ Requires:
 - onyx-gesture-settings-plugin
 - usbstick-utils
 - onyx-camera-settings-plugin
+- buttonjackd
 
 # Other usefull stuff that i install anyways
 - nano
