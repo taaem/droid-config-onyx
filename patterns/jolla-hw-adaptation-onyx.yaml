@@ -29,6 +29,7 @@ Requires:
 
 # for fm radio
 - qt5-qtmultimedia-plugin-mediaservice-irisradio
+- jolla-mediaplayer-radio
 
 # These need to be per-device due to differing backends (fbdev, eglfs, hwc, ..?)
 - qt5-qtwayland-wayland_egl
@@ -107,6 +108,9 @@ Requires:
 # Other usefull stuff that i install anyways
 - nano
 - mce-tools
+
+# Flashlight
+- jolla-settings-system-flashlight
 
 Obsoletes:
 # Not needed USB modes
