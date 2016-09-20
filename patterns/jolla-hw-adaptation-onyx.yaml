@@ -95,6 +95,9 @@ Requires:
 # Mount SD-Card
 - sd-utils
 
+# Multi Sim
+- jolla-settings-networking-multisim
+
 # OnePlus X specific packages
 - triambience
 - onyx-flashlight
