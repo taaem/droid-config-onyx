@@ -12,6 +12,7 @@
 # We assume most devices will
 %define have_modem 1
 
+Obsoletes: ofono-configs-mer
 Provides: ofono-configs
 
 %include droid-configs-device/droid-configs.inc
