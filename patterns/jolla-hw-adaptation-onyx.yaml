@@ -112,10 +112,5 @@ Requires:
 # Flashlight
 - jolla-settings-system-flashlight
 
-Obsoletes:
-# Not needed USB modes
-- usb-moded-mass-storage-android-config
-- usb-moded-diag-mode-android
-
 Summary: Jolla HW Adaptation onyx
 
