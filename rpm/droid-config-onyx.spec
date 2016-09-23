@@ -12,7 +12,11 @@
 # We assume most devices will
 %define have_modem 1
 
-Obsoletes: ofono-configs-mer
 Provides: ofono-configs
+
+# Packages to be uninstalled
+Obsoletes: ofono-configs-mer
+Obsoletes: usb-moded-mass-storage-android-config
+Obsoletes: usb-moded-diag-mode-android
 
 %include droid-configs-device/droid-configs.inc
