@@ -29,6 +29,7 @@ Requires:
 
 # for fm radio
 - qt5-qtmultimedia-plugin-mediaservice-irisradio
+- jolla-mediaplayer-radio
 
 # These need to be per-device due to differing backends (fbdev, eglfs, hwc, ..?)
 - qt5-qtwayland-wayland_egl
@@ -108,10 +109,8 @@ Requires:
 - nano
 - mce-tools
 
-Obsoletes:
-# Not needed USB modes
-- usb-moded-mass-storage-android-config
-- usb-moded-diag-mode-android
+# Flashlight
+- jolla-settings-system-flashlight
 
 Summary: Jolla HW Adaptation onyx
 
